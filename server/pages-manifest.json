@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/pages/404": "pages/pages/404.html",
+  "/pages/blank": "pages/pages/blank.html",
+  "/pages/buttons": "pages/pages/buttons.html",
+  "/pages/cards": "pages/pages/cards.html",
+  "/pages/charts": "pages/pages/charts.html",
+  "/pages/create-account": "pages/pages/create-account.html",
+  "/pages/distributors": "pages/pages/distributors.html",
+  "/pages/forgot-password": "pages/pages/forgot-password.html",
+  "/pages": "pages/pages.html",
+  "/pages/login": "pages/pages/login.html",
+  "/pages/modals": "pages/pages/modals.html",
+  "/pages/products": "pages/pages/products.html",
+  "/pages/tables": "pages/pages/tables.html",
+  "/pages/users": "pages/pages/users.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
